@@ -1,0 +1,56 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never"  android:onClick="seccion5"/>
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_seccion_0"
+            android:icon="@drawable/ic_menu"
+            android:onClick="seccion0"
+            android:title="@string/seccion_0"/>
+        <item
+            android:id="@+id/menu_seccion_1"
+            android:icon="@drawable/ic_menu"
+            android:onClick="seccion1"
+            android:title="@string/seccion_1"/>
+        <item
+            android:id="@+id/menu_seccion_2"
+            android:icon="@drawable/ic_menu"
+            android:onClick="seccion2"
+            android:title="@string/seccion_2"/>
+
+        <item
+            android:id="@+id/menu_seccion_3"
+            android:icon="@drawable/ic_menu"
+            android:onClick="seccion3"
+            android:title="@string/seccion_3"/>
+        <item
+            android:id="@+id/menu_seccion_4"
+            android:icon="@drawable/ic_menu"
+            android:onClick="seccion4"
+            android:title="@string/seccion_4"/>
+
+
+    </group>
+
+    <!--<item-->
+        <!--android:id="@+id/navigation_subheader"-->
+        <!--android:onClick="seccion3"-->
+        <!--android:title="@string/seccion_3">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/menu_opcion_1"-->
+                <!--android:icon="@drawable/ic_menu"-->
+                <!--android:title="@string/opcion_1"/>-->
+            <!--<item-->
+                <!--android:id="@+id/menu_opcion_2"-->
+                <!--android:icon="@drawable/ic_menu"-->
+                <!--android:title="@string/opcion_2"/>-->
+        <!--</menu>-->
+    <!--</item>-->
+
+
+</menu>

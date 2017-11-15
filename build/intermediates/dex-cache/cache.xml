@@ -3,237 +3,174 @@
 
     <item
         is-multidex="false"
-        jar="/usr/share/SDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_bc1d3fc418ab7de374a4b9672050d08321338f4f.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="f23d2560790ea6f32bf16f73af0d72c425e2f618">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eb379e6703a898e2e750a7840c7228169509d4ff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/9158c3898fcd2f5af0a2e7a70e7250e7a2a7fc02/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_17b472f53350e04b0608b803ff0659b33df3cdd3/classes.dex" />
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_8879bf07599b080e8b0a028f4ffeb3bdc7233e4f.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/9158c3898fcd2f5af0a2e7a70e7250e7a2a7fc02/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_17b472f53350e04b0608b803ff0659b33df3cdd3.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/c5e889a155102b095a7987d03353007e484b749f/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_38224ea550adcb39eecb8f24326f3b627176bed7/classes.dex" />
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_c59b5bd3e3296105b86b592fcb3cbc3b06346e31.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/eb63a3754dbd8a8cecbef07031c4891049f3170d/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_47a332b08b88554d603eb022f771c3fc8d50f875.jar" />
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_8cfb6d1a594c8899e4fbdf6aade7fed681ea07c0.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/c5e889a155102b095a7987d03353007e484b749f/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_38224ea550adcb39eecb8f24326f3b627176bed7.jar" />
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_d82d2fc7dcde3649ec5be3ff02301db1bd75d578.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/8792e9f67b7536757f9f865ca860718d47fabc96/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_144abf26cd6c76212faefb08c8ce579e5ac63843.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/8792e9f67b7536757f9f865ca860718d47fabc96/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_144abf26cd6c76212faefb08c8ce579e5ac63843/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/usr/share/SDK/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_bc1d3fc418ab7de374a4b9672050d08321338f4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/0c0c666e75f39363fe9cfb9aa04348e0d0d738bd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebaeaa32700ebf690207046946e024a1cee33f82/classes.dex" />
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_f5ac748a1376f4c0eda4bf90543072fc0bada92c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/b94382caf25427bd897cb1e78071f984ada6c1b7/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_47d942659d3246313121c70590771d0ae2030de7.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/d29f08621aaa3dbd678f39d351200e6f917ba65b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_12d11e681a9e9bfdb44367bc4235011b02b5dbda.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/d29f08621aaa3dbd678f39d351200e6f917ba65b/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_12d11e681a9e9bfdb44367bc4235011b02b5dbda/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/0c0c666e75f39363fe9cfb9aa04348e0d0d738bd/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="26.0.2"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_ebaeaa32700ebf690207046946e024a1cee33f82.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/b94382caf25427bd897cb1e78071f984ada6c1b7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47d942659d3246313121c70590771d0ae2030de7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/538976596822e84f3594500dbb0cf264a1a4fd88/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
+        revision="25.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48a86e5be9f34b3527a9723f2e12a06cd39f24e0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/f71fa7abdb95f478d85905838673ecef2da57e77/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcc15535577e9a8b7287f5ebf63e07993c51a92c/classes.dex" />
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_6cce65d278d34a43607dc09c4361103d69ab9cff.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/f71fa7abdb95f478d85905838673ecef2da57e77/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_fcc15535577e9a8b7287f5ebf63e07993c51a92c.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4226cd67b1bb879a43b714995ee94212eced4117/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/eb63a3754dbd8a8cecbef07031c4891049f3170d/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47a332b08b88554d603eb022f771c3fc8d50f875/classes.dex" />
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_645a7fee308ae46d5006c738a001a2abe377d0d4.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/e05c603afbce949b4d58fb78e2e1d5511c1130a7/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_9d86011a0bc0829378e31ed659527e72a03182c0.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/usr/share/SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_98593734e78e2f04a13156c145e408949b807655/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/e05c603afbce949b4d58fb78e2e1d5511c1130a7/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.2"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d86011a0bc0829378e31ed659527e72a03182c0/classes.dex" />
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_e30a8169ab9acb0ecdf7bc477d2a29814aa2db1e.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/local/LABINFO/2103216/.android/build-cache/538976596822e84f3594500dbb0cf264a1a4fd88/output/jars/classes.jar"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/classes_48a86e5be9f34b3527a9723f2e12a06cd39f24e0.jar" />
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_996f3d7dd0256f73f28d66bfc5a72791a384722c.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/usr/share/SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="C:\Users\Ludwing\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
         jumboMode="false"
         optimize="true"
-        revision="26.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/home/local/LABINFO/2103216/AndroidStudioProjects/PlanS/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_98593734e78e2f04a13156c145e408949b807655.jar" />
+        revision="25.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_866ed334b1cb020fa4fb2bd472077b38f38c7934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_47b7248f501c10c2877b407bda4aaea58052d92d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_31a1bba2161218cf95924fcf93edfeea5ba5af06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_d48e5483ba4666ccae18de05e2efdf803cc07f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_94c6127dffe61a3353662cfb50629b91b5fe4f8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_d9caaecf2a4b0575df5b7cfb3d6e60fc6362e86f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_bae230790841642f770f16d18379812d217198a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_2bd14f16f841ef735830944db8cbf00b1a9bba40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b9e202280b4251f285e2eb1bda066d6d05d1c052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Ludwing\Desktop\v\MenuLateralSlide-master\LudwingAcevedo-Lab11\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_59d8259a29df7707b30da5c65c86ca79df02686a.jar" />
     </item>
 
 </items>

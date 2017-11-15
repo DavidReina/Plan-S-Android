@@ -1,3 +1,46 @@
 <resources>
-    <string name="app_name">PlanS</string>
+    <string name="title_activity_gustos">Gustos</string>
+
+
+    <string name="app_name">PLANS</string>
+    <string name="action_settings">Cerrar sesion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Se abrio el menu lateral</string>
+    <string name="drawer_close">Se cerro el menu lateral</string>
+    <string name="fragment1">fracmento1</string>
+    <string name="usuario">usuario</string>
+    <string name="seccion_0">Preferencias</string>
+    <string name="seccion_1">Crear un plan</string>
+    <string name="seccion_2">Los mejores planes</string>
+    <string name="seccion_4">Buscar plan</string>
+    <string name="seccion_5">Cerrar sesion</string>
+    <string name="seccion_3">Ver mis planes</string>
+    <string name="opcion_1">PaintBall</string>
+    <string name="opcion_2">Mini Cars</string>
+    <string name="hola">hola xxxx</string>
+
+    <!-- Nombres de los items -->
+    <string-array name="nav_drawer_items">
+        <item>Seccion1</item>
+        <item>Seccion2</item>
+        <item>Seccion3</item>
+        <item>Seccion4</item>
+    </string-array>
+
+    <!-- Iconos de los items -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_whats_hot</item>
+        <item>@drawable/ic_people</item>
+        <item>@drawable/ic_photos</item>
+        <item>@drawable/ic_communities</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="title_activity_ventana_uno">ventanaUno</string>
+    <string name="title_activity_buscar_planes">BuscarPlanes</string>
+    <string name="title_activity_crear_un_plan">CrearUnPlan</string>
+    <string name="title_activity_mejores_planes">MejoresPlanes</string>
+    <string name="title_activity_mis_planes">MisPlanes</string>
+
 </resources>
